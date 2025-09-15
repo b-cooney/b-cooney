@@ -1,6 +1,6 @@
 # Hi, I'm Brendan
 
-I live outside Boston, MA. I enjoy learning languages, music, coffee, writing, traveling, geocaching and hiking with my family. I am an active member of the [Abenaki Tribe](https://abenakination.com/) and focus much of my volunteer efforts there. I also coach in both )[youth lacrosse](https://www.massyouthlax.org/) and [First Lego League](https://nefirst.org/) and am often seen at [US Fencing](https://www.usafencing.org/) matches.
+I live outside Boston, MA. I enjoy learning languages, music, coffee, writing, traveling, geocaching and hiking with my family. I am an active member of the [Abenaki Tribe](https://abenakination.com/) and focus much of my volunteer efforts there. I also coach in both [youth lacrosse](https://www.massyouthlax.org/) and [First Lego League](https://nefirst.org/) and am often seen at [US Fencing](https://www.usafencing.org/) matches.
 
 I am currently open to new opportunities after spending 2.5 years at [Berkshire Hathaway](https://www.berkshirehathaway.com/) on their Berxi platform. Previously, I worked in a number of leadership roles in technology, operations and strategy at [EF Education First](https://ef.edu/). In the past I have also served on a few boards and ran a digital transformation consultancy.
 
