@@ -4,7 +4,7 @@ I live outside Boston, MA. I enjoy learning languages, music, coffee, writing, t
 
 I am currently open to new opportunities after spending 2.5 years at [Berkshire Hathaway](https://www.berkshirehathaway.com/) on their Berxi platform. Previously, I worked in a number of leadership roles in technology, operations and strategy at [EF Education First](https://ef.edu/). In the past I have also served on a few boards and ran a digital transformation consultancy.
 
-I am also an *armchair* researcher focusing on adult friendships and loneliness. I occasionally write about what I've learned on my [Substack](https://signedafriend.online).
+You can see what I've been experimenting with via my [Hugging Face](https://huggingface.co/bcooney/collections) profile. I am also an *armchair* researcher focusing on adult friendships and loneliness. I occasionally write about what I've learned on my [Substack](https://signedafriend.online).
 
 ### Active Personal Projects:
 
