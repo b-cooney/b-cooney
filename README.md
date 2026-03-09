@@ -1,6 +1,7 @@
 # Hi, I'm Brendan
 
-### Active Personal Projects: None at the moment
+### Active Personal Projects: 
+- Gigantical: A simple daily note/task app that sits on top of my Google calendar and one Google doc.
 
 ### Previous Personal Projects:
 
