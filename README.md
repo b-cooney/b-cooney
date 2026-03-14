@@ -2,7 +2,8 @@
 
 ### Active Personal Projects: 
 - Gigantical: A simple daily note/task app that sits on top of my Google calendar and one Google doc.
-
+- 资治: A Chinese history research and explorer tool. Takes history texts and makes them searchable, conversational and bilingual.
+  
 ### Previous Personal Projects:
 
 - Move By Move: My son and I created a chess game where the LLM explains its every move to you. Great for understanding the other players mindset and building corresponding strategies.
